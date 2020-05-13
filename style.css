@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Neuton&family=Noto+Serif&family=Oxygen&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Neuton&family=Noto+Serif&family=Oxygen&display=swap');
 
 body {
-  background-color: blue;
+  background-color: #F6F9FC;
   font-family: 'Oxygen', sans-serif;
   color: rgba(60,60,60,1);
   font-size: 60px;
