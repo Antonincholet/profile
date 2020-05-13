@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Neuton&family=Noto+Serif&family=Oxygen&display=swap');
 
 body {
-  background-color: #F6F9FC;
+  background-color: rgba(250, 198, 93,0.15);
   font-family: 'Oxygen', sans-serif;
   color: rgba(60,60,60,1);
-  font-size: 60px;
+  font-size: 16px;
 }
 
 h1, h2 {
