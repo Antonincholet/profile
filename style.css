@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Neuton&family=Noto+Serif&family=Oxygen&display=swap')
+
+body {
+  background-color: blue;
+  font-family: 'Oxygen', sans-serif;
+  color: rgba(60,60,60,1);
+  font-size: 60px;
+}
+
+h1, h2 {
+  color: rgba(20,20,20,0.85);
+  font-family:'Noto', serif;
+  font-size:40px;
+  line-height: 40px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 24px;
+  color:#60CD9E;
+}
+
+a {
+  text-decoration: none;
+  color: #EF6461;
+}
+
+a:hover {
+  text-decoration:none;
+  color: rgba(20,20,20,0.85);
+}
+
+.container {
+  margin: 0 auto;
+  width: 700px;
+  margin-top: 40px;
+}
+
+.card {
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+  margin-top: 20px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.btn-red {
+  background-color:#EF6461;
+  border-radius: 4px;
+  color: white;
+  border:1px solid transparent;
+  padding: 10px 20px;
+}
+
+.btn-red:hover {
+  background-color:white;
+  border-radius: 4px;
+  color: #EF6461;
+  border:1px solid #EF6461;
+  padding: 10px 20px;
+}
+
+#footer a {
+  font-size: 40px;
+}
+
+#footer {
+  padding:10px;
+}
+
+
